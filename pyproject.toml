@@ -11,6 +11,7 @@ jupyter = "^1.0.0"
 requests = "^2.28.2"
 pyarrow = "^11.0.0"
 fastparquet = "^2023.2.0"
+plotly = "^5.13.1"
 
 
 [build-system]
