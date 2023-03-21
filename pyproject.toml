@@ -13,6 +13,7 @@ pyarrow = "^11.0.0"
 fastparquet = "^2023.2.0"
 plotly = "^5.13.1"
 pandas = "^1.5.3"
+scikit-learn = "^1.2.2"
 
 
 [build-system]
